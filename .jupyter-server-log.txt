@@ -61,3 +61,8 @@ TermSocket.open: Opened 1
 [I 18:17:30.035 NotebookApp] Saving file at /python_stats_tutorial.ipynb
 [I 18:17:59.660 NotebookApp] Starting buffering for 72e262b2-71e8-40e1-bf67-4f9778536a87:00764892-7ab8-4b51-a334-5e468f8397a4
 [I 18:18:25.800 NotebookApp] Uploading file to /iris.csv
+[W 18:19:44.652 NotebookApp] Culling 'idle' kernel 'python3' (72e262b2-71e8-40e1-bf67-4f9778536a87) with 0 connections due to 634 seconds of inactivity.
+[I 18:19:44.654 NotebookApp] Kernel shutdown: 72e262b2-71e8-40e1-bf67-4f9778536a87
+[I 18:21:28.430 NotebookApp] Saving file at /python_stats_tutorial.ipynb
+[I 18:23:59.170 NotebookApp] Saving file at /python_stats_tutorial.ipynb
+[I 18:25:17.262 NotebookApp] Saving file at /python_stats_tutorial.ipynb
