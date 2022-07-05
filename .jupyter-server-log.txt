@@ -66,3 +66,13 @@ TermSocket.open: Opened 1
 [I 18:21:28.430 NotebookApp] Saving file at /python_stats_tutorial.ipynb
 [I 18:23:59.170 NotebookApp] Saving file at /python_stats_tutorial.ipynb
 [I 18:25:17.262 NotebookApp] Saving file at /python_stats_tutorial.ipynb
+[I 18:27:17.806 NotebookApp] Saving file at /python_stats_tutorial.ipynb
+[I 18:29:18.437 NotebookApp] Saving file at /python_stats_tutorial.ipynb
+[I 18:30:04.243 NotebookApp] Uploading file to /plot_brain_size.ipynb
+[W 18:30:06.897 NotebookApp] Notebook plot_brain_size.ipynb is not trusted
+[I 18:30:07.482 NotebookApp] Kernel started: c22931d4-ea52-4cfe-b2f4-4bad52c853c3, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b6f8655d-d10a-4fea-ab38-a7688e4e4f53
+[I 18:31:04.101 NotebookApp] Saving file at /python_stats_tutorial.ipynb
+[I 18:32:07.201 NotebookApp] Saving file at /plot_brain_size.ipynb
+[I 18:33:04.532 NotebookApp] Saving file at /python_stats_tutorial.ipynb
